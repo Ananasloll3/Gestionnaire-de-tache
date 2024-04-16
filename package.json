@@ -1,0 +1,13 @@
+{
+  "name": "gestionnaire-de-tache",
+  "version": "2.0.0",
+  "description": "gestionnaire",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "@Ananasloll",
+  "license": "ISC"
+}
